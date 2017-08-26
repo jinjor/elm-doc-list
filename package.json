@@ -1,0 +1,15 @@
+{
+  "name": "elm-doc-list",
+  "version": "0.18.0",
+  "description": "Generates links to docs on package.elm-lang.org based on the packages you have installed.",
+  "main": "index.js",
+  "bin": "bin/elm-doc-list",
+  "author": "Yosuke Torii <jinjorweb@gmail.com> (https://github.com/jinjor)",
+  "license": "MIT",
+  "dependencies": {
+    "open": "^0.0.5"
+  },
+  "engines": {
+    "node" : ">=6"
+  }
+}
